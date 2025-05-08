@@ -1,0 +1,18 @@
+{
+    "hello": [
+      "Hey there! 👋",
+      "Hello! How’s it going?",
+      "Hi! What’s up?"
+    ],
+    "help": [
+      "Sure—what do you need?",
+      "Happy to help! Ask away.",
+      "What can I do for you?"
+    ],
+    "status": [
+      "All systems operational!",
+      "Running smoothly 👍",
+      "Everything’s up and alive."
+    ]
+  }
+  
