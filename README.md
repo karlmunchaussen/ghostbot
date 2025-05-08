@@ -10,15 +10,6 @@ This project is great for learning how to:
 
 ---
 
-## 🚀 Features
-
-- ✅ Monitors all joined group chats in real time
-- ✅ Logs incoming messages to a CSV file
-- ✅ Sends scheduled messages at random intervals (60–180 seconds)
-- ✅ Only posts in groups you manually whitelist
-
----
-
 ## 🛠️ Requirements
 
 - Python 3.10+
